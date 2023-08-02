@@ -1,0 +1,26 @@
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_Demo_UfakOyunlar\bin\Debug\028_Demo_UfakOyunlar.exe.config
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_Demo_UfakOyunlar\bin\Debug\028_Demo_UfakOyunlar.exe
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_Demo_UfakOyunlar\bin\Debug\028_Demo_UfakOyunlar.pdb
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_Demo_UfakOyunlar\obj\Debug\_028_Demo_UfakOyunlar.AnaForm.resources
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_Demo_UfakOyunlar\obj\Debug\_028_Demo_UfakOyunlar.Properties.Resources.resources
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_Demo_UfakOyunlar\obj\Debug\_028_Demo_UfakOyunlar.SayiBulmaForm.resources
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_Demo_UfakOyunlar\obj\Debug\_028_Demo_UfakOyunlar.YaziTuraForm.resources
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_Demo_UfakOyunlar\obj\Debug\028_Demo_UfakOyunlar.csproj.GenerateResource.cache
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_Demo_UfakOyunlar\obj\Debug\028_Demo_UfakOyunlar.csproj.CoreCompileInputs.cache
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_Demo_UfakOyunlar\obj\Debug\028_Demo_UfakOyunlar.exe
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_Demo_UfakOyunlar\obj\Debug\028_Demo_UfakOyunlar.pdb
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_Demo_UfakOyunlar\obj\Debug\028_Demo_UfakOyunlar.csproj.AssemblyReference.cache
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_Demo_UfakOyunlar\obj\Debug\_028_Demo_UfakOyunlar.SehirBulmaForm.resources
+C:\Users\user\Desktop\028_Demo_UfakOyunlar\bin\Debug\028_Demo_UfakOyunlar.exe.config
+C:\Users\user\Desktop\028_Demo_UfakOyunlar\bin\Debug\028_Demo_UfakOyunlar.exe
+C:\Users\user\Desktop\028_Demo_UfakOyunlar\bin\Debug\028_Demo_UfakOyunlar.pdb
+C:\Users\user\Desktop\028_Demo_UfakOyunlar\obj\Debug\028_Demo_UfakOyunlar.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\028_Demo_UfakOyunlar\obj\Debug\_028_Demo_UfakOyunlar.AnaForm.resources
+C:\Users\user\Desktop\028_Demo_UfakOyunlar\obj\Debug\_028_Demo_UfakOyunlar.Properties.Resources.resources
+C:\Users\user\Desktop\028_Demo_UfakOyunlar\obj\Debug\_028_Demo_UfakOyunlar.SayiBulmaForm.resources
+C:\Users\user\Desktop\028_Demo_UfakOyunlar\obj\Debug\_028_Demo_UfakOyunlar.SehirBulmaForm.resources
+C:\Users\user\Desktop\028_Demo_UfakOyunlar\obj\Debug\_028_Demo_UfakOyunlar.YaziTuraForm.resources
+C:\Users\user\Desktop\028_Demo_UfakOyunlar\obj\Debug\028_Demo_UfakOyunlar.csproj.GenerateResource.cache
+C:\Users\user\Desktop\028_Demo_UfakOyunlar\obj\Debug\028_Demo_UfakOyunlar.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\028_Demo_UfakOyunlar\obj\Debug\028_Demo_UfakOyunlar.exe
+C:\Users\user\Desktop\028_Demo_UfakOyunlar\obj\Debug\028_Demo_UfakOyunlar.pdb
